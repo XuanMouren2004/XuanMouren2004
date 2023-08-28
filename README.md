@@ -6,8 +6,8 @@
 <!-- 介绍 -->
 👋 嗨，我是 @XiaoCheng1S<br/>
 <!-- 正在学习 -->
-🌱 我目前正在学习
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white "HTML5")
+🌱 我目前正在学习：
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
 
 <!---
 XiaoCheng1S/XiaoCheng1S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
